@@ -1,2 +1,6 @@
 # t10_Rojas.Linares-
-Trabajo 10 - Menus y submenus en python 
+
+Trabajo 10 
+
+- Rojas Lizana, Jhordan 
+- Linares Olano, Erick 
